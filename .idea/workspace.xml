@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df91ccc0-6a12-4fa0-9460-fab8ca3babdf" name="Changes" comment="new test for JaCoCo">
+    <list default="true" id="df91ccc0-6a12-4fa0-9460-fab8ca3babdf" name="Changes" comment="a little change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654723872020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a little change">
+      <created>1654804321002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654804321002</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +134,7 @@
     <MESSAGE value="change .gitignore" />
     <MESSAGE value="creation Main and StatisticsService" />
     <MESSAGE value="new test for JaCoCo" />
-    <option name="LAST_COMMIT_MESSAGE" value="new test for JaCoCo" />
+    <MESSAGE value="a little change" />
+    <option name="LAST_COMMIT_MESSAGE" value="a little change" />
   </component>
 </project>
